@@ -1,0 +1,43 @@
+
+p {
+    color:red;
+}
+
+li{
+    color:blueviolet;
+}
+
+h2{
+    color:green;
+}
+
+h1{
+    color:orange;
+}
+
+.dark{
+    color:orange;
+    background-color:black;
+    width:20%;
+}
+
+.light{
+    color:orange;
+    background-color:whitesmoke;
+    width:fit-content
+}
+
+.light2{
+    color:aqua
+}
+
+.lightBg{
+    background-color:whitesmoke
+}
+
+.darkBg{
+    background-color:black ;
+}
+
+
+
